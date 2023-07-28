@@ -19,13 +19,6 @@ class Request
         }
     }
 
-    public function merge(array $attributes)
-    {
-        foreach ($attributes as $key => $value) {
-            $this->attributes[$key] = $value;
-        }
-    }
-
     public function get(string $key)
     {
         if ($this->attributes[$key]) {

@@ -4,16 +4,10 @@
             <a href="/">Home</a>
         </li>
         <li>
-            <a href="https://academy.satellasoft.com">Sobre</a>
+            <a href="/proposals/create">Solicitar Proposta</a>
         </li>
         <li>
-            <a href="#">Quem Somos</a>
-        </li>
-        <li>
-            <a href="#">Contato</a>
-        </li>
-        <li>
-            <a href="#">Entrar</a>
+            <a href="/proposals/index">Lista de Propostas</a>
         </li>
     </ul>
 </nav>

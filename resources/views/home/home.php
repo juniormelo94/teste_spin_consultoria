@@ -5,7 +5,7 @@
         <div>
             <h1>Seja Bem-Vindo</h1>
             <h2>Conheça mais sobre nossos plano de Saúde</h2>
-            <a href="/proposals/index">
+            <a id="btn-create" href="/proposals/create">
                 Solicitar Proposta
             </a>
         </div>
