@@ -14,7 +14,7 @@ git clone https://github.com/juniormelo94/api_book_store.git
 - PHP 8.0.
 
 ````
-### Step 4: Start server
+### Start server
 
 ```` 
 php -S localhost:8000 -t public/
